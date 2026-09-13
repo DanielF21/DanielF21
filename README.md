@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I studied computer science at MIT. I’ve published astrophysics research to the Harvard-Smithsonian Minor Planet Center. Most recently, I was the second hire at Netic, where I built the agent system that now serves millions of users.
+#### I studied computer science at MIT. I’ve published astrophysics research to the Harvard-Smithsonian Minor Planet Center. Most recently, I was the second hire at Netic, where I built the agent system that now serves millions of users.
 
 <!--
 **DanielF21/DanielF21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
